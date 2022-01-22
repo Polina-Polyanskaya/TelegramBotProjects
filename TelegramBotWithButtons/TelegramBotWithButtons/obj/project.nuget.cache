@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HL97H01RRq/SFeOfnpIVdiHA7vBG7bdVIfSUVqWojIq/8LXEYzlovp5NpQU0hBQuKqShp21CcFvpgN1kaHcVqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79261\\source\\repos\\TelegramBotWithButtons\\TelegramBotWithButtons\\TelegramBotWithButtons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79261\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\79261\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
