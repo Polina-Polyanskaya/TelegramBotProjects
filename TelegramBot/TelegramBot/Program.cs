@@ -1,6 +1,6 @@
 ﻿try
 {
-    TelegramBotHelper hlp = new TelegramBotHelper(token: "5115177343:AAH4frzIv0KuCvTKrcOH-GiTB1G5cdwj6iI");
+    TelegramBotHelper hlp = new TelegramBotHelper(token: "");
     hlp.GetUpdates();
     
 }
