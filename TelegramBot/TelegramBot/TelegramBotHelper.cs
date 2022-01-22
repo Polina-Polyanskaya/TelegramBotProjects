@@ -49,7 +49,7 @@ internal class TelegramBotHelper
 
     private async void processUpdate(Telegram.Bot.Types.Update update)
     {
-        connstring = $"Server=localhost;Port=5432;User Id=postgres;Password=Polina1521Misha;Database=myDb";
+        connstring = $"Server=localhost;Port=5432;User Id=postgres;Password=;Database=myDb";
         Console.WriteLine(update.Type);
         switch (update.Type)
         {
