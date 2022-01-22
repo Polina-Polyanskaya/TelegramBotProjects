@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3db49b0-62d6-4974-bb04-f7bfb3c37f61": {
+      "ProjectGuid": "d3db49b0-62d6-4974-bb04-f7bfb3c37f61",
+      "DisplayName": "TelegramBot",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
